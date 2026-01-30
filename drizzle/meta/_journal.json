@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1769480015023,
+      "tag": "0000_futuristic_nico_minoru",
+      "breakpoints": true
+    }
+  ]
+}
